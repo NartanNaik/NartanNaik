@@ -45,21 +45,20 @@
 
 ---
 
-### 📊 My GitHub Stats
+### 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NartanNaik&show_icons=true&theme=tokyonight" height="180"/><br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NartanNaik&show_icons=true&theme=tokyonight" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NartanNaik&theme=tokyonight" height="180"/>
 </p>
 
 ---
 
-### 📈 Contribution Graph
+### 📈 Activity Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NartanNaik&theme=react-dark"/>
 </p>
 
 ---
-
 ### 🧠 Fun Zone
 > "The bug you ignore today becomes the monster in prod tomorrow."  
 > *— The Dev Monk (probably me)*
