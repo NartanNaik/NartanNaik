@@ -38,9 +38,9 @@
 
 #### 🎨 Design & Editing
 <p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DaVinci%20Resolve-FF0000?style=for-the-badge&logo=blackmagicdesign&logoColor=white"/>
+  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" />
+  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" />
+  <img src="https://cdn.simpleicons.org/blackmagicdesign/white" height="40" />
 </p>
 
 ---
