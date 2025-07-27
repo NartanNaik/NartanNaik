@@ -64,7 +64,7 @@
 > "The bug you ignore today becomes the monster in prod tomorrow."  
 > *— The Dev Monk (aka Nartan Naik)*
 
-🎧 Currently jamming: [`lofi.coffee.stream()`](https://lofi.cafe) 
+🎧 Currently jamming: [`lofi.coffee.stream()`](https://lofi.cafe)<br/>
 ☕ Mood: Dark theme, infinite scroll, and caffeine
 
 ---
