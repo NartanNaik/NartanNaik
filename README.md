@@ -59,6 +59,7 @@
 </p>
 
 ---
+
 ### 🧠 Fun Zone
 > "The bug you ignore today becomes the monster in prod tomorrow."  
 > *— The Dev Monk (probably me)*
