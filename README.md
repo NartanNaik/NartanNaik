@@ -36,11 +36,11 @@
   <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white"/>
 </p>
 
-#### 🎨 Design & Editing
+### 🎨 Design & Editing
 <p>
-  <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" />
- <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/DaVinci_Resolve_17_logo.svg" height="40"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DaVinci%20Resolve-FF0000?style=for-the-badge&logo=blackmagicdesign&logoColor=white"/>
 </p>
 
 ---
