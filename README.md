@@ -62,7 +62,7 @@
 
 ### 🧠 Fun Zone
 > "The bug you ignore today becomes the monster in prod tomorrow."  
-> *— The Dev Monk (aka you)*
+> *— The Dev Monk (aka Nartan Naik)*
 
 🎧 Currently jamming: `lofi.coffee.stream()`  
 ☕ Mood: Dark theme, infinite scroll, and caffeine
