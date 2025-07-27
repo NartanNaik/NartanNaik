@@ -37,10 +37,10 @@
 </p>
 
 #### 🎨 Design & Editing
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" height="40"/>
-  <img src="https://raw.githubusercontent.com/MaheshB7445/devicon-assets/main/icons/canva/canva-original.svg" alt="Canva" height="40"/>
-  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/editor/da-vinci.svg" alt="DaVinci Resolve" height="40"/>
+<p>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
+  <img src="https://img.shields.io/badge/DaVinci%20Resolve-FF0000?style=for-the-badge&logo=blackmagicdesign&logoColor=white"/>
 </p>
 
 ---
