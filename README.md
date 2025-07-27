@@ -37,10 +37,10 @@
 </p>
 
 #### 🎨 Design & Editing
-<p>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DaVinciResolve-FF0000?style=for-the-badge&logo=blackmagicdesign&logoColor=white"/>
+<p align="left">
+  <img src="https://img.icons8.com/color/48/figma--v1.png" alt="Figma" height="40"/>
+  <img src="https://img.icons8.com/color/48/canva-new.png" alt="Canva" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/DaVinci_Resolve_17_logo.svg" alt="DaVinci Resolve" height="40"/>
 </p>
 
 ---
@@ -64,11 +64,11 @@
 > "The bug you ignore today becomes the monster in prod tomorrow."  
 > *— The Dev Monk (aka Nartan Naik)*
 
-🎧 Currently jamming: `lofi.coffee.stream()`  
+🎧 Currently jamming: [`lofi.coffee.stream()`](https://lofi.cafe) 
 ☕ Mood: Dark theme, infinite scroll, and caffeine
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=F70000&center=true&vCenter=true&width=435&lines=Hello+World!+I'm+a+CS+Student.;I+build+cool+projects.;I+learn+daily+and+ship+weekly.;Dark+mode+forever.">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=FFD700&center=true&vCenter=true&width=600&lines=Breaking+the+Matrix+with+Dart+%26+JS.;Building+%F0%9F%94%A5+One+Commit+at+a+Time.;Dark+Mode+is+the+New+Light.;Code.+Sleep.+Repeat.;Reality+is+just+a+branch.">
 </p>
