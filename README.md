@@ -1,4 +1,4 @@
-<h1 align="center">Hey there 👋, I'm Nartan</h1>
+<h1 align="center">Access granted. Welcome aboard 👾</h1>
 <p align="center">🌌 Just a guy trying to break the Matrix, one commit at a time.</p>
 
 ---
@@ -45,7 +45,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### 📊 My GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=NartanNaik&show_icons=true&theme=tokyonight" height="180"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=NartanNaik&theme=tokyonight" height="180"/>
@@ -53,7 +53,7 @@
 
 ---
 
-### 📈 Activity Graph
+### 📈 Contribution Graph
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=NartanNaik&theme=react-dark"/>
 </p>
@@ -62,7 +62,7 @@
 
 ### 🧠 Fun Zone
 > "The bug you ignore today becomes the monster in prod tomorrow."  
-> *— The Dev Monk (aka Nartan Naik)*
+> *— The Dev Monk (probably me)*
 
 🎧 Currently jamming: [`lofi.coffee.stream()`](https://lofi.cafe)<br/>
 ☕ Mood: Dark theme, infinite scroll, and caffeine
