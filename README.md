@@ -38,9 +38,9 @@
 
 #### 🎨 Design & Editing
 <p align="left">
-  <img src="https://img.icons8.com/color/48/figma--v1.png" alt="Figma" height="40"/>
-  <img src="https://img.icons8.com/color/48/canva-new.png" alt="Canva" height="40"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/84/DaVinci_Resolve_17_logo.svg" alt="DaVinci Resolve" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" height="40"/>
+  <img src="https://raw.githubusercontent.com/MaheshB7445/devicon-assets/main/icons/canva/canva-original.svg" alt="Canva" height="40"/>
+  <img src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/main/editor/da-vinci.svg" alt="DaVinci Resolve" height="40"/>
 </p>
 
 ---
