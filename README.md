@@ -40,7 +40,7 @@
 <p>
   <img src="https://cdn.simpleicons.org/figma/F24E1E" height="40" />
   <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" />
-  <img src="https://cdn.simpleicons.org/blackmagicdesign/white" height="40" />
+ <img src="https://upload.wikimedia.org/wikipedia/commons/0/0e/DaVinci_Resolve_17_logo.svg" height="40"/>
 </p>
 
 ---
