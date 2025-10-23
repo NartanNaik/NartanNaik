@@ -18,7 +18,7 @@ Pursuing the *DeepLearning.AI Machine Learning Specialization* on Coursera
 
 **Core Algorithms & Data Structures**  
 Strengthening algorithmic problem-solving in C++ through structured DSA practice  
-*(View my dedicated [DSA Portfolio](#))*  
+*(View my dedicated [DSA Portfolio](https://github.com/NartanNaik/DSA-Portfolio))*  
 
 **AI/ML Project Development**  
 Developing *DocuSearch AI*, an NLP-driven project applying transformer-based models for semantic search and OCR text summarization  
