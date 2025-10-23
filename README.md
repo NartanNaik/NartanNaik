@@ -1,70 +1,69 @@
 <h1 align="center">Nartan Naik | Aspiring AI/ML Engineer</h1>
 
 <p align="center">
-🚀 5th Semester Computer Science Engineer | Building with C++, Python, and Full-Stack Tech
+🚀 5th-Semester Computer Science Engineer | Building with C++, Python & Full-Stack Technologies  
 <br />
-🧠 Currently executing a strategic pivot into Artificial Intelligence & Machine Learning, focusing on NLP and Deep Learning.
+🧠 Transitioning into Artificial Intelligence & Machine Learning with a focus on Natural Language Processing (NLP) and Deep Learning  
 <br />
-🎯 Seeking Software Engineer roles for 2027 to apply fundamental engineering skills to complex, large-scale systems.
+🎯 Actively preparing for **Software Engineer (AI/ML)** roles for 2027 — aiming to apply strong computational foundations to large-scale, impactful systems  
 </p>
 
-🌱 Currently Focusing On:
+---
 
-Machine Learning Foundations: Actively working through the DeepLearning.AI Machine Learning Specialization on Coursera (Expected Completion: Nov 2025).
+### 🌱 Current Focus
 
-Core Algorithms & Data Structures: Deepening my understanding and implementation skills in C++ via structured practice (See DSA Portfolio).
+**Machine Learning Foundations**  
+Pursuing the *DeepLearning.AI Machine Learning Specialization* on Coursera  
+*(Expected Completion: November 2025)*  
 
-AI/ML Project Development: Building an NLP-focused project to apply theoretical knowledge (See DocuSearch AI).
+**Core Algorithms & Data Structures**  
+Strengthening algorithmic problem-solving in C++ through structured DSA practice  
+*(View my dedicated [DSA Portfolio](#))*  
 
-🛠️ Core Tech Stack
+**AI/ML Project Development**  
+Developing *DocuSearch AI*, an NLP-driven project applying transformer-based models for semantic search and OCR text summarization  
 
-Languages: C++, Python, JavaScript
+---
 
-AI/ML: Machine Learning (Learning), NLP (Focus), TensorFlow (Planned)
+### 🛠️ Core Tech Stack
 
-Core CS: Data Structures, Algorithms, Operating Systems, Git/GitHub
+**Languages:** C++, Python, JavaScript  
+**AI/ML:** Machine Learning (in progress), NLP (focus area), TensorFlow (planned)  
+**Core CS:** Data Structures, Algorithms, Operating Systems, Git/GitHub  
+**Web & Frameworks:** React, Node.js, Express.js (MERN), Flutter, Tailwind CSS  
+**Databases & Tools:** MongoDB, Firebase, VS Code  
 
-Web/Frameworks: React, Node.js, Express.js (MERN), Flutter, Tailwind CSS
+---
 
-Databases & Tools: MongoDB, Firebase, VS Code
+### ✨ Featured Projects
 
-(Optional: You can add the badge images here if you like, but keep the list focused)
+#### 🔍 **DocuSearch AI Platform (In Development)**  
+AI/ML capstone project leveraging *Transformer-based NLP* for semantic document search and OCR text summarization.  
+**Tech:** Python, TensorFlow (planned), OpenCV  
 
-✨ Pinned Projects
+#### 💡 **DSA Fundamentals Portfolio**  
+C++ implementations of key data structures and algorithms with emphasis on optimization and scalability.  
+**Tech:** C++, GitHub  
 
-(Make sure these are pinned on your profile!)
+#### 🍽️ **Food Waste Tracker & Recommendation System**  
+Full-stack MERN application that tracks food expiry and generates AI-based recipe recommendations to reduce waste.  
+**Tech:** React, Node.js, Express.js, MongoDB  
 
-DocuSearch AI Platform (In Development)
+---
 
-AI/ML capstone project utilizing Transformer models for semantic search and OCR text summarization. Focus on practical NLP and deep learning.
-
-Tech: Python, TensorFlow (Planned), OpenCV
-
-DSA Fundamentals Portfolio
-
-My C++ solutions for core data structures and algorithms, emphasizing optimal time/space complexity.
-
-Tech: C++, GitHub
-
-Food Waste Tracker & Recommendation System (Assuming this is the correct repo name)
-
-Full-stack MERN application tracking food expiry and generating dynamic recipe suggestions.
-
-Tech: React, Node.js, Express, MongoDB
-
-📊 GitHub Stats & Activity
+### 📊 GitHub Insights
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=NartanNaik&show_icons=true&theme=tokyonight" height="180"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NartanNaik&theme=tokyonight" height="180"/>
-
-
-
-
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NartanNaik&theme=react-dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NartanNaik&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NartanNaik&theme=tokyonight" height="180"/>
 </p>
 
 <p align="center">
-Building the future, one commit at a time.
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NartanNaik&theme=react-dark"/>
+</p>
+
+---
+
+<p align="center">
+  <strong>“Building the future, one commit at a time.”</strong>
 </p>
