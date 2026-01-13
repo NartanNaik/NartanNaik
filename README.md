@@ -1,69 +1,70 @@
-<h1 align="center">Nartan Naik | Aspiring AI/ML Engineer</h1>
+<h1 align="center">Nartan Naik | Computer Science Undergraduate</h1>
 
 <p align="center">
-🚀 5th-Semester Computer Science Engineer | Building with C++, Python & Full-Stack Technologies  
+🚀 Computer Science & Engineering student building projects with C++, Python, Flutter, and full-stack web technologies  
 <br />
-🧠 Transitioning into Artificial Intelligence & Machine Learning with a focus on Natural Language Processing (NLP) and Deep Learning  
+🧩 Focused on strengthening data structures, algorithms, and core software engineering fundamentals  
 <br />
-🎯 Actively preparing for **Software Engineer (AI/ML)** roles for 2027 — aiming to apply strong computational foundations to large-scale, impactful systems  
+🎯 Exploring AI integration in applications while preparing for software engineering roles
 </p>
 
 ---
 
 ### 🌱 Current Focus
 
-**Machine Learning Foundations**  
-Pursuing the *DeepLearning.AI Machine Learning Specialization* on Coursera  
-*(Expected Completion: November 2025)*  
+<strong>Software Engineering Foundations</strong><br />
+Strengthening problem-solving skills through structured Data Structures & Algorithms practice in C++
 
-**Core Algorithms & Data Structures**  
-Strengthening algorithmic problem-solving in C++ through structured DSA practice  
-*(View my dedicated [DSA Portfolio](https://github.com/NartanNaik/DSA-Portfolio))*  
+<br />
 
-**AI/ML Project Development**  
-Developing *DocuSearch AI*, an NLP-driven project applying transformer-based models for semantic search and OCR text summarization  
+<strong>Applied Project Development</strong><br />
+Building full-stack and mobile applications with a focus on real-world problem solving and system design
+
+<br />
+
+<strong>Machine Learning Fundamentals</strong><br />
+Currently pursuing the <em>Machine Learning Specialization by DeepLearning.AI</em> to build foundational understanding
 
 ---
 
 ### 🛠️ Core Tech Stack
 
-**Languages:** C++, Python, JavaScript  
-**AI/ML:** Machine Learning (in progress), NLP (focus area), TensorFlow (planned)  
-**Core CS:** Data Structures, Algorithms, Operating Systems, Git/GitHub  
-**Web & Frameworks:** React, Node.js, Express.js (MERN), Flutter, Tailwind CSS  
-**Databases & Tools:** MongoDB, Firebase, VS Code  
+<strong>Languages:</strong> C++, Python, JavaScript, Dart  
+<strong>Core CS:</strong> Data Structures & Algorithms, Problem Solving  
+<strong>Web & App Development:</strong> React, Node.js, Express.js, Flutter  
+<strong>Databases & Tools:</strong> MongoDB, SQLite, Git, GitHub, VS Code, Android Studio  
 
 ---
 
 ### ✨ Featured Projects
 
-#### 🔍 **DocuSearch AI Platform (In Development)**  
-AI/ML capstone project leveraging *Transformer-based NLP* for semantic document search and OCR text summarization.  
-**Tech:** Python, TensorFlow (planned), OpenCV  
-
-#### 💡 **DSA Fundamentals Portfolio**  
-C++ implementations of key data structures and algorithms with emphasis on optimization and scalability.  
-**Tech:** C++, GitHub  
-
-#### 🍽️ **Food Waste Tracker & Recommendation System**  
-Full-stack MERN application that tracks food expiry and generates AI-based recipe recommendations to reduce waste.  
-**Tech:** React, Node.js, Express.js, MongoDB  
+#### 🍽️ Food Waste Tracker & Recommendation System
+Full-stack MERN application enabling food tracking, recommendations, and AI-based feature integration using pretrained models.  
+<strong>Tech:</strong> React, Node.js, Express.js, MongoDB  
 
 ---
 
-### 📊 GitHub Insights
+#### 📱 Flutter Camera & Media Sharing Application
+Custom camera app supporting multiple capture modes, local storage management, and conditional watermarking during sharing.  
+<strong>Tech:</strong> Flutter, Dart, Camera APIs, Local Storage  
+
+---
+
+#### 🧠 Data Structures & Algorithms Practice Portfolio
+C++ implementations of core data structures and algorithmic problems with focus on correctness and efficiency.  
+<strong>Tech:</strong> C++, GitHub  
+
+---
+
+### 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NartanNaik&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NartanNaik&theme=tokyonight" height="180"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=NartanNaik&theme=react-dark"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=NartanNaik&show_icons=true&theme=tokyonight" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=NartanNaik&theme=tokyonight" height="170"/>
 </p>
 
 ---
 
 <p align="center">
-  <strong>“Building the future, one commit at a time.”</strong>
+  <em>Learning by building, improving one project at a time.</em>
 </p>
