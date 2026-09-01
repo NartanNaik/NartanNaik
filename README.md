@@ -1,3 +1,8 @@
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="light_mode.svg" />
+  <img alt="NartanNaik's GitHub profile" src="dark_mode.svg" />
+</picture>
 <h1 align="center">Nartan Maruti Naik</h1>
 <h3 align="center">Computer Science Engineering Undergraduate — Full-Stack & AI-Integrated Systems</h3>
 
